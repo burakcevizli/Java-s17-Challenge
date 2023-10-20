@@ -1,6 +1,6 @@
-package dto;
+package com.workintech.AlexGrade.dto;
 
-import entity.Course;
+import com.workintech.AlexGrade.entity.Course;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

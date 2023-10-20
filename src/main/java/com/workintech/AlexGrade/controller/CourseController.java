@@ -1,11 +1,11 @@
-package controller;
+package com.workintech.AlexGrade.controller;
 
 
-import dto.CourseResponse;
-import dto.CoursesResponseFactory;
-import entity.Course;
-import entity.CourseGpa;
-import exceptions.CourseValidation;
+import com.workintech.AlexGrade.dto.CourseResponse;
+import com.workintech.AlexGrade.dto.CoursesResponseFactory;
+import com.workintech.AlexGrade.entity.Course;
+import com.workintech.AlexGrade.entity.CourseGpa;
+import com.workintech.AlexGrade.exceptions.CourseValidation;
 import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

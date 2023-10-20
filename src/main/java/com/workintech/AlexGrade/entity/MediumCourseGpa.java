@@ -1,11 +1,11 @@
-package entity;
+package com.workintech.AlexGrade.entity;
 
 import org.springframework.stereotype.Component;
 
 @Component
-public class HighCourseGpa implements CourseGpa{
+public class MediumCourseGpa implements CourseGpa{
     @Override
     public int getGpa() {
-        return 10;
+        return 5;
     }
 }

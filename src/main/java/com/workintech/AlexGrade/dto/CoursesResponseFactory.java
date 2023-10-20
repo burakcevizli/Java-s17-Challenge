@@ -1,6 +1,7 @@
-package dto;
+package com.workintech.AlexGrade.dto;
 
-import entity.*;
+import com.workintech.AlexGrade.entity.*;
+
 
 public class CoursesResponseFactory {
     public static CourseResponse coursesResponse(Course course, CourseGpa low,

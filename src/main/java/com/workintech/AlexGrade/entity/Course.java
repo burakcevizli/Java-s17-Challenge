@@ -1,4 +1,4 @@
-package entity;
+package com.workintech.AlexGrade.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

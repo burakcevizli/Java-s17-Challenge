@@ -1,9 +1,8 @@
-package exceptions;
+package com.workintech.AlexGrade.exceptions;
 
-import entity.Course;
+import com.workintech.AlexGrade.entity.Course;
 import org.springframework.http.HttpStatus;
 
-import java.awt.*;
 import java.util.Optional;
 import java.util.List;
 

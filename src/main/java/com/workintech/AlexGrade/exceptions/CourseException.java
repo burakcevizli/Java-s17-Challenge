@@ -1,4 +1,4 @@
-package exceptions;
+package com.workintech.AlexGrade.exceptions;
 
 import lombok.Getter;
 import lombok.Setter;
